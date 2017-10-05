@@ -1,0 +1,22 @@
+<item>
+		<document> 
+			<ItemCode>393</ItemCode>
+			<ItemName>AGUA - 1,5 LITROS</ItemName>
+			<CodeBars>64029</CodeBars>
+			<VATLiable>N</VATLiable>
+			<PrchseItem>N</PrchseItem>
+			<SellItem>Y</SellItem>
+			<InvntItem>N</InvntItem>
+			<OnHand>0</OnHand>
+			<CardCode></CardCode>
+			<MinLevel>0</MinLevel>
+			<LstEvlPric>2.150000</LstEvlPric>
+			<Canceled>N</Canceled>
+			<LastPurPrc>0.000000</LastPurPrc>
+			<AvgPrice>0.00000</AvgPrice>
+			<ManBtchNum>N</ManBtchNum>
+			<validFor>Y</validFor>
+			<frozenFor>N</frozenFor>
+			<CreateDate>20-12-2017</CreateDate>
+		</document>
+</item>

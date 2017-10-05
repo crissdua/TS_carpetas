@@ -1,0 +1,25 @@
+<order>
+		<document> 
+			<doctype>I</doctype>
+			<series>75</series>
+			<docnum>36</docnum>
+			<docdate>20170817</docdate>
+			<docduedate>20170828</docduedate>
+			<cardcode>400003</cardcode>
+			<doctotal>70</doctotal>
+			<document_lines>
+				<line>
+					<itemcode>1198</itemcode>
+					<quantity>3</quantity>
+					<taxcode>IVA</taxcode>
+					<linetotal>10</linetotal>
+				</line>
+				<line>
+					<itemcode>1198</itemcode>
+					<quantity>4</quantity>
+					<taxcode>IVA</taxcode>
+					<linetotal>10</linetotal>
+				</line>
+			</document_lines>
+		</document>	
+</order>   

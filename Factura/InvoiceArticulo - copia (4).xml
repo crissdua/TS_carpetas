@@ -1,0 +1,24 @@
+<invoice>
+		<document> 
+			<series>75</series>
+			<docnum>36</docnum>
+			<docdate>20170808</docdate>
+			<cardcode>400001</cardcode>
+			<doctotal>20</doctotal>
+			<doctype>I</doctype>
+			<document_lines>
+				<line>
+					<itemcode>1198</itemcode>
+					<quantity>1</quantity>
+					<taxcode>EXE</taxcode>
+					<linetotal>10</linetotal>
+				</line>
+				<line>
+					<itemcode>1198</itemcode>
+					<quantity>1</quantity>
+					<taxcode>EXE</taxcode>
+					<linetotal>10</linetotal>
+				</line>
+			</document_lines>
+		</document>	
+</invoice>   

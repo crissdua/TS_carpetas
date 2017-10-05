@@ -1,0 +1,28 @@
+<ncredito>
+		<document> 
+			<series>75</series>
+			<docnum>36</docnum>
+			<docdate>20170929</docdate>
+			<cardcode>400001</cardcode>
+			<doctotal>20</doctotal>
+			<doctype>S</doctype>
+			<document_lines>
+				<line>
+					<itemdescription>Serv Integration</itemdescription>
+					<quantity>1</quantity>
+					<taxcode>EXE</taxcode>
+					<warehousecode>01</warehousecode>
+					<accountcode>_SYS00000000086</accountcode>
+					<linetotal>10</linetotal>
+				</line>
+				<line>
+					<itemdescription>Serv Integration</itemdescription>
+					<quantity>1</quantity>
+					<taxcode>EXE</taxcode>
+					<warehousecode>01</warehousecode>
+					<accountcode>_SYS00000000086</accountcode>
+					<linetotal>10</linetotal>
+				</line>
+			</document_lines>
+		</document>	
+</ncredito>   

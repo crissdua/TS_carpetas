@@ -1,0 +1,90 @@
+<paciente>
+		<document> 
+			<cardcode>1</cardcode>
+			<document_lines>
+				<line>
+					<cardcode>6</cardcode>
+					<name>josue dus</name>
+					<position>position</position>
+					<address>string (db: Address, Alpha(100))</address>
+					<phone1>45645</phone1>
+					<phone2>456456</phone2>
+					<mobilephone>string</mobilephone>
+					<fax>4564564</fax>
+					<e_Mail>string</e_Mail>
+					<pager>45451</pager>
+					<remarks1>string</remarks1>
+					<remarks2>string</remarks2>
+					<password>asdfsadf</password>
+					<placeofbirth>string</placeofbirth>
+					<dateofbirth></dateofbirth>
+					<gender>M</gender>
+					<profession>ing</profession>
+					<title>string</title>
+					<cityofbirth>-1</cityofbirth>
+					<active>Y</active>
+					<firstname>string</firstname>
+					<middlename>string</middlename>
+					<lastname>string</lastname>
+					<emailgroupcode>string</emailgroupcode>
+					
+
+				</line>				<line>
+					<cardcode>4</cardcode>
+					<name>Daniel eo</name>
+					<position>position</position>
+					<address>string (db: Address, Alpha(100))</address>
+					<phone1>45645</phone1>
+					<phone2>456456</phone2>
+					<mobilephone>string</mobilephone>
+					<fax>4564564</fax>
+					<e_Mail>string</e_Mail>
+					<pager>45451</pager>
+					<remarks1>string</remarks1>
+					<remarks2>string</remarks2>
+					<password>asdfsadf</password>
+					<placeofbirth>string</placeofbirth>
+					<dateofbirth></dateofbirth>
+					<gender>M</gender>
+					<profession>ing</profession>
+					<title>string</title>
+					<cityofbirth>-1</cityofbirth>
+					<active>Y</active>
+					<firstname>string</firstname>
+					<middlename>string</middlename>
+					<lastname>string</lastname>
+					<emailgroupcode>string</emailgroupcode>
+					
+
+				</line>
+								<line>
+					<cardcode>2</cardcode>
+					<name>cristhiam dusss</name>
+					<position>position</position>
+					<address>string (db: Address, Alpha(100))</address>
+					<phone1>45645</phone1>
+					<phone2>456456</phone2>
+					<mobilephone>string</mobilephone>
+					<fax>4564564</fax>
+					<e_Mail>string</e_Mail>
+					<pager>45451</pager>
+					<remarks1>string</remarks1>
+					<remarks2>string</remarks2>
+					<password>asdfsadf</password>
+					<placeofbirth>string</placeofbirth>
+					<dateofbirth></dateofbirth>
+					<gender>M</gender>
+					<profession>ing</profession>
+					<title>string</title>
+					<cityofbirth>-1</cityofbirth>
+					<active>Y</active>
+					<firstname>string</firstname>
+					<middlename>string</middlename>
+					<lastname>string</lastname>
+					<emailgroupcode>string</emailgroupcode>
+					
+
+				</line>
+			</document_lines>
+		</document>		
+</paciente>   

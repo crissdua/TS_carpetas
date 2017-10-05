@@ -1,0 +1,46 @@
+<invoice>
+		<document> 
+			<doctype>A</doctype>
+			<series>75</series>
+			<docnum>36</docnum>
+			<docdate>2017-06-27</docdate>
+			<cardcode>400003</cardcode>
+			<doctotal>70</doctotal>
+			<document_lines>
+				<line>
+					<itemcode>P01001</itemcode>
+					<quantity>3</quantity>
+					<taxcode>IVA</taxcode>
+					<linetotal>10</linetotal>
+				</line>
+				<line>
+					<itemcode>P01001</itemcode>
+					<quantity>4</quantity>
+					<taxcode>IVA</taxcode>
+					<linetotal>10</linetotal>
+				</line>
+			</document_lines>
+		</document>	
+		<document> 
+			<doctype>S</doctype>
+			<series>75</series>
+			<docnum>37</docnum>
+			<docdate>2017-06-27</docdate>
+			<cardcode>400004</cardcode>
+			<doctotal>20</doctotal>
+			<document_lines>
+				<line>
+					<itemdescription>Servicios desde XML subway</itemdescription>
+					<taxcode>EXE</taxcode>
+					<accountcode>_SYS00000000004</accountcode>
+					<linetotal>10</linetotal>
+				</line>
+				<line>
+					<itemdescription>1198</itemdescription>
+					<taxcode>IVA</taxcode>
+					<accountcode>_SYS00000000004</accountcode>
+					<linetotal>10</linetotal>
+				</line>
+			</document_lines>
+		</document>	
+</invoice>   

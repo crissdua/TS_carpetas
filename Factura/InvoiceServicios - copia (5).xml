@@ -1,0 +1,24 @@
+<invoice>
+		<document> 
+			<series>75</series>
+			<docnum>36</docnum>
+			<docdate>20171002</docdate>
+			<cardcode>400001</cardcode>
+			<doctotal>20</doctotal>
+			<doctype>S</doctype>
+			<document_lines>
+				<line>
+					<itemdescription>Servicios desde B1if</itemdescription>
+					<taxcode>EXE</taxcode>
+					<accountcode>_SYS00000000004</accountcode>
+					<linetotal>10</linetotal>
+				</line>
+				<line>
+					<itemdescription>Servicios desde B1if</itemdescription>
+					<taxcode>EXE</taxcode>
+					<accountcode>_SYS00000000004</accountcode>
+					<linetotal>10</linetotal>
+				</line>
+			</document_lines>
+		</document>	
+</invoice>   

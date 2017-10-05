@@ -1,0 +1,19 @@
+<transfer>
+		<document> 
+			<series>20</series>
+			<docdate>20170926</docdate>
+			<duedate>20170926</duedate>
+			<cardcode>10001</cardcode>
+			<fromwarehouse>01</fromwarehouse>
+			<towarehouse>02</towarehouse>
+			<document_lines>
+				<line>
+					<linenum>0</linenum>
+					<itemcode>1001</itemcode>
+					<quantity>10</quantity>
+					<warehousecode>01</warehousecode>
+					<fromwarehousecode>02</fromwarehousecode>
+				</line>
+			</document_lines>
+		</document>	
+</transfer>   

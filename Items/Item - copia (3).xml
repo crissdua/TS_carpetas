@@ -1,0 +1,22 @@
+<item>
+		<document> 
+			<itemcode>395</itemcode>
+			<itemname>AGUA - 2 LITROS</itemname>
+			<codebars>64029</codebars>
+			<vatliable>N</vatliable>
+			<prchseitem>N</prchseitem>
+			<sellitem>Y</sellitem>
+			<invntitem>N</invntitem>
+			<onhand>0</onhand>
+			<cardcode></cardcode>
+			<minlevel>0</minlevel>
+			<lstevlpric>2.150000</lstevlpric>
+			<canceled>N</canceled>
+			<lastpurprc>0.000000</lastpurprc>
+			<avgprice>0.00000</avgprice>
+			<manbtchnum>N</manbtchnum>
+			<validfor>Y</validfor>
+			<frozenfor>N</frozenfor>
+			<createdate>20-12-2017</createdate>
+		</document>
+</item>

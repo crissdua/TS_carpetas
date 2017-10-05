@@ -1,0 +1,28 @@
+<items>
+		<document> 
+			<ItemCode>I2</ItemCode>
+			<ItemName>Articulo Prueba Integration</ItemName>
+			<ItmsGrpCod></ItmsGrpCod>
+			<CodeBars>1654587</CodeBars>
+			<VATLiable>Y</VATLiable>
+			<PrchseItem>Y</PrchseItem>
+			<SellItem>Y</SellItem>
+			<InvntItem>Y</InvntItem>
+			<OnHand>3600</OnHand>
+			<CardCode>P1234</CardCode>
+			<MinLevel>1000</MinLevel>
+			<LstEvlPric>15.15</LstEvlPric>
+			<LstEvlDate>20171220</LstEvlDate>  <!--- Falta ver el estandar que se dara a sap sobre la fecha.. ejemplos: dd/mm/yyyy  o yyyy/mm/dd -->
+			<Canceled>N</Canceled>
+			<LastPurPrc>16.25</LastPurPrc>
+			<LastPurDat>20171220</LastPurDat>
+			<LstSalDate>20171220</LstSalDate>
+			<CreateDate>20101220</CreateDate>
+			<UpdateDate>20161220</UpdateDate>
+			<AvgPrice>15.30</AvgPrice>
+			<ManBtchNum>Y</ManBtchNum>
+			<validFor>Y</validFor>
+			<frozenFor>Y</frozenFor>
+			<ByWh></ByWh>
+		</document>
+</items>

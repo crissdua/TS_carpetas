@@ -1,0 +1,10 @@
+<cliente>
+		<document> 
+			<doctype>C</doctype>
+			<cardcode>Prueba1</cardcode>
+			<cardname>Prueba1</cardname>
+			<groupnumber>100</groupnumber>
+			<doccurrency>QTZ</doccurrency>
+			<federaltaxid>0000000000000</federaltaxid>
+		</document>	
+</cliente>   

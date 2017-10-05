@@ -1,0 +1,10 @@
+<cliente>
+		<document> 
+			<doctype>C</doctype>
+			<cardcode>C000124</cardcode>
+			<cardname>Integration</cardname>
+			<groupnumber>100</groupnumber>
+			<doccurrency>QTZ</doccurrency>
+			<federaltaxid>0000000000000</federaltaxid>
+		</document>	
+</cliente>   
