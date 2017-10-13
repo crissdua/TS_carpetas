@@ -1,0 +1,34 @@
+**
+Tanto Facturas como Ordenes usan la misma estructura, estos utilizan multiple cantidad de tag Line
+<invoice>
+		<document> 
+			<doctype>I</doctype>						--Tipo de documento I = Articulos, S = Servicios
+			<cardcode>400001</cardcode>					--Codigo del cliente a facturar
+			<numatcard>refsalus</numatcard>				--Referencia Externa (solo si aplica, si no dejar en blanco)
+			<cursource>QTZ</cursource>					--Mondeda del documento
+			<docdate>20171002</docdate>					--Fecha de creacion del documento
+			<docduedate>20171002</docduedate>			--Fecha de Vencimiento del documento
+			<taxdate>20171002</taxdate>					--Fecha de Impuesto del documento
+			<series>1</series>							--Serie del documento
+			<discprcnt>0.00</discprcnt>					--Porcentaje que se aplicara de descuento
+			<u_paciente>paciente</u_paciente>			--Campo de Usuario Paciente
+			<u_docnum>12345</u_docnum>					--Campo de documento Externo
+			<docstatus>A</docstatus>					--Status del Documento
+			<document_lines>
+				<line>
+					<itemcode>1198</itemcode>			--Codigo del item
+					<quantity>1</quantity>				--Cantidad
+					<taxcode>exe</taxcode>				--Impuesto
+					<whscode>01</whscode>				--Bodega
+					<priceafvat>5</priceafvat>			--Precio Unitario
+					<gtotal>5</gtotal>					--Total de la linea
+					<ocrcode></ocrcode>					--Departamento
+					<ocrcode2></ocrcode2>				--Tipo de Gasto
+					<ocrcode3></ocrcode3>				--Centro
+					<ocrcode4></ocrcode4>				--Equipo / Diagnostico
+					<ocrcode5></ocrcode5>				--Empleado
+					<discprcnt>0.00</discprcnt>			--Descuento por linea
+				</line>
+			</document_lines>
+		</document>	
+</invoice>   

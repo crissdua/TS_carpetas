@@ -1,0 +1,38 @@
+<item>
+		<document> 
+			<itemcode>396</itemcode>						--Codigo de Item
+			<itemname>Integration396</itemname>				--Nombre de Item
+			<frgnname></frgnname>							--Nombre Extranjero
+			<itmsgrpcod>107</itmsgrpcod>					--Grupo de Articulos
+			<vatgroupsa></vatgroupsa>						--Definicion iva 
+			<codebars>64029</codebars>						--Codigo de Barras
+			<vatliable>N</vatliable>						--Sujeto a Impuesto Y/N
+			<prchseitem>Y</prchseitem>						--Articulo de compra Y/N
+			<sellitem>N</sellitem>							--Articulo de venta Y/N
+			<invntitem>N</invntitem>						--Articulo de inventario Y/N
+			<onhand>0</onhand>								--Cantidad Stock
+			<cardcode></cardcode>							--Proveedor predeterminado
+			<incomeaccount></incomeaccount>					--Cuenta de ingresos
+			<exemptincomeaccount></exemptincomeaccount>		--Cuenta de ingresos exentos de impuestos
+			<defaultwarehouse></defaultwarehouse>			--Almacen predeterminado
+			<minlevel>0</minlevel>							--Nivel de stock minimo
+			<lstevlpric>2.150000</lstevlpric>				--Ultimo precio determinado
+			<lstevldate>20171010</lstevldate>				--Fecha precio Ultm. Revalorizado
+			<canceled>N</canceled>							--Articulo anulado Y/N
+			<lastpurprc>0.000000</lastpurprc>				--Ultimo precio de compra
+			<lastpurdat>20171010</lastpurdat>				--Ultima fecha de compra
+			<firmcode>1</firmcode>							--Fabricante
+			<lstsaldate>20171010</lstsaldate>				--Fecha de ultima venta
+			<createdate>20171010</createdate>				--Fecha de produccion
+			<updatedate>20171010</updatedate>				--Fecha de actualizacion
+			<vatgrouppu></vatgrouppu>						--Definicion del IVA
+			<avgprice>0.00000</avgprice>					--Costo del articulo
+			<manbtchnum>N</manbtchnum>						--Gestionar Numero de lote Y/N
+			<validfor>Y</validfor>							--Valido
+			<frozenfor>N</frozenfor>						--Inactivo
+			<expensacct></expensacct>						--Cuenta de gastos
+			<frgninacct></frgninacct>						--Cuenta de ingresos - extranjero
+			<bywh>Y</bywh>									--Gestion de stocks por almacen
+			<wtliable>N</wtliable>							--Sujeto a retencion impto.
+		</document>
+</item>

@@ -1,0 +1,38 @@
+<payment>
+		<document> 
+			<tipodepago>TSFR</tipodepago>  							
+			<pagoacuenta>N</pagoacuenta>  							
+			<docnum>910</docnum>          							
+			<doctype>C</doctype>		  							
+			<docdate>20171004</docdate>	  							
+			<cardcode>400001</cardcode>   							
+			<doccurrency>QTZ</doccurrency>							
+			<remarks>Remarks</remarks>								
+			<series>14</series>										
+			<cashsum>5</cashsum>										
+			<cashaccount>_SYS00000000004</cashaccount>								
+			<transferaccount>_SYS00000000004</transferaccount>
+			<transfersum>5</transfersum>
+			<transferreference>Integration</transferreference>			
+			<document_lines>
+				<line>
+					<docnum>72</docnum>							
+					<invoicetype>13</invoicetype>					
+					<sumapplied>5</sumapplied>						
+				</line>
+				<pay>
+					<checknumber>12345</checknumber>				
+					<bankcode>BGT</bankcode>						
+					<accounttnum>66-13987-3</accounttnum>			
+					<checksum>5</checksum>							
+					<checkaccount>_SYS00000000387</checkaccount>	
+					<creditcard>1</creditcard>
+					<creditcardnumber>1111</creditcardnumber>
+					<cardvaliduntil>20171231</cardvaliduntil>
+					<vouchernum>4122</vouchernum>
+					<creditsum>5</creditsum>						
+				</pay>
+			</document_lines>
+		</document>	
+		
+</payment>  

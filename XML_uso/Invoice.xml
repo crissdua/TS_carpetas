@@ -1,0 +1,32 @@
+<invoice>
+		<document> 
+			<doctype>I</doctype>
+			<cardcode>400001</cardcode>
+			<numatcard>refsalus</numatcard>
+			<cursource>QTZ</cursource>
+			<docdate>20171002</docdate>
+			<docduedate>20171002</docduedate>
+			<taxdate>20171002</taxdate>
+			<series>1</series>
+			<discprcnt>0.00</discprcnt>
+			<u_paciente>paciente</u_paciente>
+			<u_docnum>12345</u_docnum>
+			<docstatus>A</docstatus>
+			<document_lines>
+				<line>
+					<itemcode>1198</itemcode>
+					<quantity>1</quantity>
+					<taxcode>exe</taxcode>
+					<whscode>01</whscode>
+					<priceafvat>5</priceafvat>
+					<gtotal>5</gtotal>
+					<ocrcode></ocrcode>
+					<ocrcode2></ocrcode2>
+					<ocrcode3></ocrcode3>
+					<ocrcode4></ocrcode4>
+					<ocrcode5></ocrcode5>
+					<discprcnt>0.00</discprcnt>
+				</line>
+			</document_lines>
+		</document>	
+</invoice>   

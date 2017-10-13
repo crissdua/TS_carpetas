@@ -1,0 +1,43 @@
+<cliente>
+		<document> 
+			<series></series>							--Serie Cliente
+			<cardtype>C</cardtype>						--Tipo de Cliente C = cliente
+			<cardcode>int5</cardcode>					--Codigo cliente
+			<cardname>ClienteIntegration5</cardname>	--Nombre de cliente
+			<cardfname>cardfname5</cardfname>			--Nombre extranjero
+			<groupcode>100</groupcode>					--Codigo de grupo
+			<currency>QTZ</currency>					--Definicion Moneda
+			<phone1>12345678</phone1>					--Telefono1
+			<phone2>87654321</phone2>					--Telefono2
+			<cellular>56456451</cellular>				--Celular
+			<fax>fax</fax>								--Fax
+			<e_mail>correo</e_mail>						--Correo Electronico
+			<intrntsite>pagina</intrntsite>				--Stitio Web
+			<industry_c>-1</industry_c>					--Ramo de industria
+			<aliasname>alias</aliasname>				--Nombre Alias
+			<glblocnum>global</glblocnum>				--Numero de localizacion Global(GLN)
+			<blockcomm>block</blockcomm>				--Recibir Promociones
+			<select></select>							--Recibir Promociones por mail
+			<channlbp></channlbp>						--Canal Socio Negocio
+			<federaltaxid>0000000000000</federaltaxid>	--Codigo Federal (No Enviar en todo caso)
+			<wtliable>N</wtliable>						--Sujeto a Retencion Y/N
+			<wtname></wtname>							--Nombre de Retencion
+			<addid>213534-1</addid>						--Numero de nit
+			<document_lines>
+				<line>
+					<address>address</address>			--Direccion de Factura	
+					<address2>address2</address2>		--Direccion de Factura2
+					<address3>address3</address3>		--Direccion de Factura3
+					<street>street</street>				--Calle
+					<block>block</block>				--Colonia
+					<city>city</city>					--Ciudad
+					<zipcode>zip</zipcode>				--Codigo Postal
+					<county>county</county>				--Municipio
+					<state>7</state>					--Departamento (codigo)
+					<streetno>streetno</streetno>		--Numero de Calle	
+					<building>building</building>		--Edificio/Planta/Sala
+					<glblocnum>global</glblocnum>		--Numero de localizacion Global(GLN)
+				</line>
+			</document_lines>
+		</document>	
+</cliente>   

@@ -1,0 +1,94 @@
+**
+Los pacientes se introduciran con historial, es decir se enviaran todos los pacientes en cada inserccion de uno nuevo
+no se ingresara unicamente el nuevo.
+
+<paciente>
+		<document> 
+			<cardcode>1</cardcode>											--Codigo del Cliente a quien se asignara
+			<document_lines>
+				<line>
+					<cardcode>6</cardcode>									--Codigo de Control (no necesario exigido)
+					<name>josue dus</name>									--Nombre del paciente
+					<position>position</position>							--Posicion (solo si aplica, si no dejar en blanco)
+					<address>string (db: Address, Alpha(100))</address>     --Direccion
+					<phone1>45645</phone1>									--Telefono1
+					<phone2>456456</phone2>									--Telefono2
+					<mobilephone>string</mobilephone>						--Celular
+					<fax>4564564</fax>										--Fax
+					<e_Mail>string</e_Mail>									--Correo Electronico
+					<pager>45451</pager>									--(solo si aplica, si no dejar en blanco)
+					<remarks1>string</remarks1>								--Observaciones1
+					<remarks2>string</remarks2>								--Observaciones2
+					<password>asdfsadf</password>							--(solo si aplica, si no dejar en blanco)
+					<placeofbirth>string</placeofbirth>						--Ciudad de Nacimiento
+					<dateofbirth></dateofbirth>								--Fecha Cumpleaños
+					<gender>M</gender>										--Sexo
+					<profession>ing</profession>							--Profesion
+					<title>string</title>									--Titulo
+					<cityofbirth>-1</cityofbirth>							--Lugar de Nacimiento
+					<active>Y</active>										--Activo o Inactivo
+					<firstname>string</firstname>							--Primer Nombre
+					<middlename>string</middlename>							--Segundo Nombre
+					<lastname>string</lastname>								--Apellidos
+					<emailgroupcode>string</emailgroupcode>					--Grupo de correos (solo si aplica, si no dejar en blanco)
+					
+
+				</line>				<line>
+					<cardcode>4</cardcode>
+					<name>Daniel eo</name>
+					<position>position</position>
+					<address>string (db: Address, Alpha(100))</address>
+					<phone1>45645</phone1>
+					<phone2>456456</phone2>
+					<mobilephone>string</mobilephone>
+					<fax>4564564</fax>
+					<e_Mail>string</e_Mail>
+					<pager>45451</pager>
+					<remarks1>string</remarks1>
+					<remarks2>string</remarks2>
+					<password>asdfsadf</password>
+					<placeofbirth>string</placeofbirth>
+					<dateofbirth></dateofbirth>
+					<gender>M</gender>
+					<profession>ing</profession>
+					<title>string</title>
+					<cityofbirth>-1</cityofbirth>
+					<active>Y</active>
+					<firstname>string</firstname>
+					<middlename>string</middlename>
+					<lastname>string</lastname>
+					<emailgroupcode>string</emailgroupcode>
+					
+
+				</line>
+								<line>
+					<cardcode>2</cardcode>
+					<name>cristhiam dusss</name>
+					<position>position</position>
+					<address>string (db: Address, Alpha(100))</address>
+					<phone1>45645</phone1>
+					<phone2>456456</phone2>
+					<mobilephone>string</mobilephone>
+					<fax>4564564</fax>
+					<e_Mail>string</e_Mail>
+					<pager>45451</pager>
+					<remarks1>string</remarks1>
+					<remarks2>string</remarks2>
+					<password>asdfsadf</password>
+					<placeofbirth>string</placeofbirth>
+					<dateofbirth></dateofbirth>
+					<gender>M</gender>
+					<profession>ing</profession>
+					<title>string</title>
+					<cityofbirth>-1</cityofbirth>
+					<active>Y</active>
+					<firstname>string</firstname>
+					<middlename>string</middlename>
+					<lastname>string</lastname>
+					<emailgroupcode>string</emailgroupcode>
+					
+
+				</line>
+			</document_lines>
+		</document>		
+</paciente>   

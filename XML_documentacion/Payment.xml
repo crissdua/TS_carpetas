@@ -1,0 +1,39 @@
+**Puede llevar multiples tag de line
+<payment>
+		<document> 
+			<tipodepago>CHQ</tipodepago>  							-- posibles CHQ (cheque), CC (creditcard), EF (efectivo), TSFR (transferencia)
+			<pagoacuenta>Y</pagoacuenta>  							-- posibles Y (pago a cuenta), N (pago sobre documento)
+			<docnum>910</docnum>          							-- Numero de documento que ingresa a SAP
+			<doctype>C</doctype>		  							-- posibles C (clientes), P (proveedor)
+			<docdate>20171004</docdate>	  							-- Fecha de creacion de Documento
+			<cardcode>400001</cardcode>   							-- Codigo del cliente
+			<doccurrency>QTZ</doccurrency>							-- Moneda de Ingreso
+			<remarks>Remarks</remarks>								-- Comentarios
+			<series>14</series>										-- Serie de pago
+			<cashsum></cashsum>										-- Cantidad a pagar en efectivo (solo si aplica, si no dejar en blanco)
+			<cashaccount></cashaccount>								-- Cuenta de efectivo (solo si aplica, si no dejar en blanco)
+			<transferaccount></transferaccount>						-- Cuenta de Transferencia (solo si aplica, si no dejar en blanco)
+			<transfersum></transfersum>								-- Cantidad a transferir (solo si aplica, si no dejar en blanco)
+			<transferreference></transferreference>					-- Referencia de la transferencia (solo si aplica, si no dejar en blanco)
+			<document_lines>
+				<line>
+					<docnum>886</docnum>							-- Documento sobre el que recae el pago (solo si aplica, si no dejar en blanco)
+					<invoicetype>13</invoicetype>					-- Tipo de Documento a usar (13 factura, 14 Nota de credito) (solo si aplica, si no dejar en blanco)
+					<sumapplied>5</sumapplied>						-- Cantidad a pagar al documento (solo si aplica, si no dejar en blanco)
+				</line>
+				<pay>
+					<checknumber>12345</checknumber>				-- Numero de cheque (solo si aplica, si no dejar en blanco)
+					<bankcode>BGT</bankcode>						-- Codigo del Banco (solo si aplica, si no dejar en blanco)
+					<accounttnum>66-13987-3</accounttnum>			-- Numero de Cuenta de banco (solo si aplica, si no dejar en blanco)
+					<checksum>5</checksum>							-- Cantidad a pagar con cheque (solo si aplica, si no dejar en blanco)
+					<checkaccount>_SYS00000000387</checkaccount>	-- Numero de cuenta de cheques (solo si aplica, si no dejar en blanco)
+					<creditcard></creditcard>						-- Numero de Codigo SAP de tarjeta de credito (solo si aplica, si no dejar en blanco)
+					<creditcardnumber></creditcardnumber>			-- Numero de tarjeta de credito (solo si aplica, si no dejar en blanco)
+					<cardvaliduntil></cardvaliduntil>				-- Fecha de expiracion (Fecha completa yyyyMMdd **dd no importa el valor puede quemar en codigo valor 01) (solo si aplica, si no dejar en blanco)
+					<vouchernum></vouchernum>						-- Numero de Voucher (solo si aplica, si no dejar en blanco)
+					<creditsum></creditsum>							-- Cantidad a pagar con tarjeta de credito (solo si aplica, si no dejar en blanco)
+				</pay>
+			</document_lines>
+		</document>	
+		
+</payment>   
